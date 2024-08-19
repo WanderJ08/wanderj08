@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanderj08&label=Profile%20views&color=0e75b6&style=flat" alt="wanderj08" /> </p>
 
-[![committers.top badge](https://user-badge.committers.top/dominican_republic_public/WanderJ08.svg)](https://user-badge.committers.top/dominican_republic_public/WanderJ08)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanderj08" alt="wanderj08" /></a> </p>
 
